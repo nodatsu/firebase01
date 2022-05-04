@@ -37,6 +37,7 @@ dependencies:
 
   # Google Cloud Firestore
   cloud_firestore: ^3.1.14
+  firebase_core: ^1.16.0
 
 dev_dependencies:
   flutter_test:
